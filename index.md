@@ -12,9 +12,19 @@ kirin.narine@gmail.com | [Resume](Kirin) | [LinkedIn](https://www.linkedin.com/i
 
 ## Walldash
 
+A multiplayer first person parkour-based racing game that rewards skilled play with the ability to fly through levels when you understand what you're doing. The main mechanic of the game is the ability to slide down a wall which will decrease your falling speed. More importantly however when you jump of the wall you will get a boost of momentum that will send you in a direction you're facing with the longer you slide down the wall the stronger the boost. This combined with an airdash players have access to and various items means that once you know what you're doing you can fly through the level. 
+
+This game was done for my capstone project where I worked with a team of three other people over the course of one semester. Everyone in the team was fairly specialized and my role with this project was centered around level design and game feel. I was responsible for the layout of the level including the item placement throughout as well assisting with the visuals and sound design of the game.
+
 ## Papercraft Plunders
 
-## Flipfall
+## FlipFall
+[Itch.io Link](https://jlewis19.itch.io/flipfall)
+A procedurally generated 2D platformer that was made in 48 hours for the 2022 Global Game Jam. The main mechanic of FlipFall is the ability to switch between a Light and a Dark mode which changes the way that you will interact with enemies and platforms. The game starts with the player falling down trying to avoid crashing into the various platforms. Once they reach the bottom they will find a gun they must pickup before climbing out of the level they just decended, only now populated with various enemies.
+
+My main contributions to this project were the implemetation of enemy behaviors as well as designing several level segments. While the game is procedurally generated the way that its done is by having a list of level segments that are randomly selected. I was tasked with designing these levels and making sure that when they functioned properly. I also put together the trailer for this game.
+
+[Trailer](https://www.youtube.com/watch?v=_K3VnBIYrfo)
 
 ## Heart of the Cards
 [Itch.io Link](https://jlewis19.itch.io/heart-of-the-cards).
