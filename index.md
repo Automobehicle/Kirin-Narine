@@ -22,7 +22,16 @@ We've decided to continue working on this project hoping to add more content and
 ## Papercraft Plunders
 [Itch.io Link](https://jlewis19.itch.io/papercraft-plunders)
 
-A procedurally generated top down adventure game similar to games like the original Legend of Zelda with roguelike aspects. You follow two brothers Wally and Stan who after getting grounded must find a way to keep themselves entertained 
+A procedurally generated top down adventure game similar to games like the original Legend of Zelda with roguelike aspects. You follow two brothers Wally and Stan who after getting grounded must find a way to keep themselves entertained after getting growned and losing access to their video games. In order to stave off bordom the two brothers create their own game using their toys and imagination.
+
+The game uses two card based systems. One deck contains your attacks which you slowly cycle through with them being put on cooldown until they recharge. The other deck contains room cards which are used to determine the next room you enter which allwows you to control the danger you face while also rewarding players who choose more difficult rooms wtih better rewards.
+
+This game was done in a team with three other students for Game Concept Development at Northeastern. We worked on this over the course of the entire semester during which I was responsible for most of not only the mechanical design and implementation of several bosses and enemies, but I was also responsible for half of the art assets produced for the game. Additionally I was responsible for some of the UI elements as well.
+
+## Custom Game Engine
+[Download via Google Drive](https://drive.google.com/file/d/1SGJijRK0EYqmy3PEpsEhV5oQKEVkSURy/view)
+
+A very basic game engine that was done in a Game Engines class offered boy Northeastern in 2022. Written in C++ the engine utilizes a componenet based system where various components that correspond to behaviors can be attached to various game objects in order to make them function. Three games can be played with this engine those being a very basic platformer, breakout, and a fusion between a 2D shooter and pac-man. Additionally there is a fully functional level editor present within the engine that can be used to make more levels. This was done in a team with three other students and while we all worked together I would take the lead on development of the level editor as well the development of various components.
 
 ## FlipFall
 [Itch.io Link](https://jlewis19.itch.io/flipfall)
@@ -43,6 +52,11 @@ While not my idea initially I found the initial pitch to be quite interesting an
 [Trailer](https://www.youtube.com/watch?v=7AeeUF-GEeI&t=12s)
 
 ## Antithesis
+[Demo 01](https://www.youtube.com/watch?v=9vBaXVxM_s4)
+[Demo 02](https://www.youtube.com/watch?v=IrpHv2PjwZw)
 
-## Custom Game Engine
+Antithesis was an asynchronous 1v1 where one player would be in VR while the other would be playing on a computer. The player in VR would be exploring an abandonned village looking for components for a ritual in order to banish a witch in the form of the other player. The player on the computer would have an overhead view of the map and would be able to spawn minions to try and prevent the VR player from completing the ritual. This game was completed by a team of 20 students for a Game Studio class offered by Northeastern.
+
+[Download via Google Drive](https://drive.google.com/file/d/1NSE_AMWeBbfFcW-BmmYfYFzfArIaIpNS/view)
+
 
