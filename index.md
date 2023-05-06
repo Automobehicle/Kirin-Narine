@@ -2,7 +2,7 @@
 
 # Intro
 
-Hey there!! I'm Kirin Narine a new graduate from Northeastern University with a degree in Computer Science and Game Developement! I've been fan of the medium for as long as I can remember and believe that not only can it function as a form of escapism, but can also allow for experiences more evocative and immersive than anything other. This site exists to showcase the various game projects that I've worked on as I'm very proud of them and nothing makes me happier than seeing people enjoying the things that I created.
+Hey there!! I'm Kirin Narine new graduate from Northeastern University with a degree in Computer Science and Game Developement! I've been fan of the medium for as long as I can remember and believe that not only can it function as a form of escapism, but can also allow for experiences more evocative and immersive than anything other. This site exists to showcase the various game projects that I've worked on as I'm very proud of them and nothing makes me happier than seeing people enjoying the things that I created.
 
 ### Contact Info
 kirin.narine@gmail.com | [Resume](Kirin) | [LinkedIn](https://www.linkedin.com/in/kirin-narine-114463196/)
@@ -11,12 +11,16 @@ kirin.narine@gmail.com | [Resume](Kirin) | [LinkedIn](https://www.linkedin.com/i
 #Projects
 
 ## Walldash
-
+[Demo Footage](https://www.youtube.com/watch?v=wVuuAmM89Ws)
 A multiplayer first person parkour-based racing game that rewards skilled play with the ability to fly through levels when you understand what you're doing. The main mechanic of the game is the ability to slide down a wall which will decrease your falling speed. More importantly however when you jump of the wall you will get a boost of momentum that will send you in a direction you're facing with the longer you slide down the wall the stronger the boost. This combined with an airdash players have access to and various items means that once you know what you're doing you can fly through the level. 
 
 This game was done for my capstone project where I worked with a team of three other people over the course of one semester. Everyone in the team was fairly specialized and my role with this project was centered around level design and game feel. I was responsible for the layout of the level including the item placement throughout as well assisting with the visuals and sound design of the game.
 
+We've decided to continue working on this project hoping to add more content and features as we all thoroughly enjoyed our game and decided that it has potential that could be realized.
+
 ## Papercraft Plunders
+[Itch.io Link](https://jlewis19.itch.io/papercraft-plunders)
+A procedurally generated top down adventure game similar to games like the original Legend of Zelda with roguelike aspects. You follow two brothers Wally and Stan who after getting grounded must find a way to keep themselves entertained 
 
 ## FlipFall
 [Itch.io Link](https://jlewis19.itch.io/flipfall)
