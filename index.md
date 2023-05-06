@@ -8,7 +8,7 @@ Hey there!! I'm Kirin Narine new graduate from Northeastern University with a de
 kirin.narine@gmail.com | [Resume](Kirin Narine 2023.pdf) | [LinkedIn](https://www.linkedin.com/in/kirin-narine-114463196/)
 
 
-#Projects
+# Projects
 
 ## Walldash
 [Demo Footage](https://www.youtube.com/watch?v=wVuuAmM89Ws)
